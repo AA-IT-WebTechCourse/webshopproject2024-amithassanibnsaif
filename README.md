@@ -47,7 +47,7 @@ Email: amit.saif@abo.fi
 
 ---
 
-🔧 How to Run the Project
+# 🔧 How to Run the Project
 
 1. Setup Backend
     Follow these steps to set up the backend:
@@ -131,6 +131,7 @@ Folders Structure
             /Shop.js
             /Signup.js
         /src/components/
+            /Navbar.js
         App.js
     README.md
     
